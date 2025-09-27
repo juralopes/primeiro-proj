@@ -8,9 +8,12 @@ function Home() {
         <p className="text-lg md:text-2xl mb-8">
           Mas cada linha de código é uma conquista ✨
         </p>
-        <button className="px-6 py-3 text-lg font-semibold rounded-xl bg-white text-indigo-600 hover:bg-indigo-200 transition duration-300">
-          Continuar Aprendendo
-        </button>
+        <a
+          ref="https://google.com/"
+          rel="noopener noreferrer"
+          className="inline-block px-6 py-3 text-lg font-semibold rounded-xl bg-white text-indigo-600 hover:bg-indigo-200 transition duration-300"
+        >
+        </a>
       </div>
     </div>
   );
