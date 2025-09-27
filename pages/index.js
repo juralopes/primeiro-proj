@@ -11,6 +11,7 @@ function Home() {
         <button className="px-6 py-3 text-lg font-semibold rounded-xl bg-white text-indigo-600 hover:bg-indigo-200 transition duration-300">
           Continuar Aprendendo
         </button>
+      </div>
     </div>
   );
 }
