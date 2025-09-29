@@ -7,10 +7,10 @@ function Home() {
         </h1>
         <p className="text-lg md:text-2xl mb-8">
           Mas cada linha de código é uma conquista ✨
-        </p> 
-          <button className="px-6 py-3 text-lg font-semibold rounded-xl bg-white text-indigo-600 hover:bg-indigo-200 transition duration-300">
+        </p>
+        <button className="px-6 py-3 text-lg font-semibold rounded-xl bg-white text-indigo-600 hover:bg-indigo-200 transition duration-300">
           Continuar Aprendendo
-          </button>
+        </button>
       </div>
     </div>
   );
