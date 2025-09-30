@@ -5,7 +5,7 @@ function Home() {
         <h1 className="text-4xl md:text-6xl font-bold mb-6">
           🚀 Dia 26/9 ainda tentando aprender a programar pelo VS Code
         </h1>
-        <h2>
+        <h2 className="text-4xl md:text-6xl font-bold mb-6">
           Dia 29/09 - Aprendendo sobre o prettier para padronizar codigos.
         </h2>
         <p className="text-lg md:text-2xl mb-8">
